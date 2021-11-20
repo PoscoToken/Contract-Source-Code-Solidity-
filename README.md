@@ -4,34 +4,6 @@
  *Submitted for verification at BscScan.com on 2021-11-19
 */
 
-/*
-     PoscoToken
-     
-Website   :     https://poscotoken.com/
-Telegram  :    https://t.me/Poscotoken
-Twitter   :       https://twitter.com/posco_token
-Medium    :    https://medium.com/@poscotoken
-Facebook  :   https://www.facebook.com/TokenPosco
-Github    :      https://github.com/PoscoToken
-instagram :   https://www.instagram.com/poscotoken/
-
-
-
-
-
-
-
-Created by GEN
-
-Website:     https://tokendeveloper.space/
-Telegram:   https://t.me/TokenDeveloper
-Twitter:      https://twitter.com/TokenDeveloper_
-Mail ID:     tokendevelopertoken@gmail.com
-Gitub:       https://github.com/FatehTokenDeveloper
-
-
-*/
-
 // SPDX-License-Identifier: MIT
 
 pragma solidity 0.8.7;
